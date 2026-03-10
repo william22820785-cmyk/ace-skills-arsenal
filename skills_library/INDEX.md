@@ -1,0 +1,294 @@
+# ACE Skills 动态库索引
+
+> 版本：v1.1
+> 日期：2026-03-07
+> 总数：226 Skills
+
+---
+
+## 📊 分类统计（实时更新）
+
+| 分类 | 数量 | 说明 |
+|------|------|------|
+| 🔥 营销与内容 | 18 | 社媒/文案/SEO |
+| 💰 金融与投资 | 11 | 股票/新闻/预测 |
+| 🤖 AI与Agent | 24 | 多Agent/LLM |
+| 📊 爬虫与数据 | 16 | 网页/可视化 |
+| 🎨 视频与图像 | 15 | 创作/设计 |
+| 🛠️ 开发工具 | 6 | 代码/Docker/Git |
+| 🌐 飞书与通讯 | 5 | 消息/协作 |
+| 📅 日历与任务 | 5 | 管理/提醒 |
+| 🔐 安全 | 2 | 审计/隐私 |
+| 📓 笔记与知识 | 3 | Obsidian/Notion |
+
+---
+
+## 🔥 营销与销售 (35+)
+
+### 社媒管理
+- social-poster - 社交媒体发布
+- social-media-scheduler - 定时发布
+- social-content - 内容生成
+- social-media-agent - 社媒Agent
+- bilibili-mcp - B站MCP
+- bilibili-hot-monitor - B站热门监控
+- xiaohongshu-scraper - 小红书爬虫
+- toutiao-scraper - 头条爬虫
+
+### 内容创作
+- copywriting - 文案撰写
+- blog-writer - 博客写作
+- content-strategy - 内容策略
+- ai-product-growth - 产品增长
+- marketing-mode - 营销模式
+
+### SEO与广告
+- seo-audit - SEO审计
+- ab-test-setup - A/B测试
+- programatic-seo - 程序化SEO
+- competitor-alternatives - 竞品对比
+- popup-cro - 弹窗优化
+
+### 邮件营销
+- email-sequence - 邮件序列
+- skill-email-management - 邮件管理
+
+### 电商
+- amazon-mcp-server - 亚马逊MCP
+
+---
+
+## 💰 金融与投资 (12+)
+
+### 行情数据
+- alphaear-stock - 股票行情
+- alphaear-news - 财经新闻
+- alphaear-sentiment - 情绪分析
+- alphaear-predictor - 市场预测
+
+### 分析工具
+- alphaear-search - 金融搜索
+- alphaear-reporter - 研报生成
+- alphaear-signal-tracker - 信号追踪
+- alphaear-deepear-lite - DeepEar信号
+- alphaear-logic-visualizer - 逻辑可视化
+
+### 加密货币
+- bankrbot-skills - 银行机器人
+
+---
+
+## 🛠️ 开发与DevOps (45+)
+
+### 代码开发
+- coding-agent - 编码Agent
+- agent-council - 多Agent协作
+- claude-team - 开发团队
+- code-mentor - 编程导师
+- debug-pro - 调试助手
+
+### Git与GitHub
+- github - GitHub自动化
+- pr-reviewer - 代码审查
+- conventional-commits - 规范化提交
+- emergency-rescue - Git急救
+
+### 容器与部署
+- docker-essentials - Docker基础
+- docker-mcp - Docker MCP
+- auto-updater - 自动更新
+
+### 前端开发
+- ui-ux-design - UI/UX设计
+- ui-ux-pro-max - 高级UI
+- react-email-skills - React邮件
+
+### API与服务
+- apify-mcp-server - Apify MCP
+- supabase - 后端服务
+- supabase相关
+
+### 开发工具
+- skill-creator - 技能创建
+- skill-builder - 技能构建
+- self-improving-agent - 自我进化
+- capability-evolver - 能力进化
+
+---
+
+## 📊 数据与爬虫 (25+)
+
+### 网页爬虫
+- crawl - 网站爬取
+- firecrawl-mcp-server - Firecrawl MCP
+- apify-mcp-server - Apify MCP
+- scrapegraph-ai - AI爬虫
+- deep-scraper - 深度爬虫
+- pinchtab - 浏览器自动化
+- browser-use - 浏览器使用
+
+### 数据处理
+- excel-mcp - Excel MCP
+- data-visualization - 数据可视化
+- xlsx - 电子表格
+- docx - Word文档
+
+### API数据
+- exa-plus - 搜索API
+- tavily-web-search - Web搜索
+- serper - 搜索服务
+
+---
+
+## 🔐 安全与隐私 (8+)
+
+- cybersecurity - 网络安全
+- security-skills - 安全技能
+- chromadb-memory - 记忆安全
+- password相关
+
+---
+
+## 📅 生产力工具 (30+)
+
+### 日历与时间
+- calendar - 日历
+- calendly - 日程管理
+
+### 笔记与知识
+- obsidian - Obsidian集成
+- better-notion - Notion增强
+- craft - Craft笔记
+- knowledge相关
+
+### 任务管理
+- asana - Asana集成
+- clickup-mcp - ClickUp MCP
+- todoist-mcp-server - Todoist MCP
+- trello - Trello集成
+
+### 邮件
+- email-send-mcp - 邮件发送
+- smtp-send - SMTP发送
+
+---
+
+## 🎨 设计与媒体 (20+)
+
+### 图像视频
+- canvas-design - 画布设计
+- algorithmic-art - 算法艺术
+- remotion-video-toolkit - 视频工具
+- video-frames - 视频帧
+- yt-dlp-downloader-skill - 视频下载
+
+### 演示文稿
+- pptx - PPT制作
+- ppt_mcp_server - PPT MCP
+- presentation-ai - AI演示
+
+### UI/UX
+- figma-console-mcp - Figma MCP
+- ui-ux-mcp-server - UI/UX MCP
+
+---
+
+## 🏠 智能家居 (5+)
+
+- smart-home相关
+- homekit相关
+
+---
+
+## 🍎 苹果生态 (5+)
+
+- macos相关
+- ios相关
+
+---
+
+## 🌐 通信与社交 (15+)
+
+### 即时通讯
+- slack - Slack集成
+- slack-mcp-server - Slack MCP
+- telegram-bot - Telegram机器人
+- discord相关
+
+### 飞书生态
+- feishu-doc - 飞书文档
+- feishu-wiki - 飞书Wiki
+- feishu-drive - 飞书云盘
+- feishu-bitable - 飞书多维表
+
+### 社交平台
+- twitter - Twitter/X
+- bluesky - Bluesky
+- bird - 鸟类(Mastodon)
+- reddit - Reddit
+
+---
+
+## 🔍 搜索与研究 (10+)
+
+- blogwatcher - 博客监控
+- technews - 科技新闻
+- academic相关
+- research相关
+
+---
+
+## 📱 短视频 (10+)
+
+- tiktok-mcp - TikTok MCP
+- youtube-transcript - YouTube字幕
+- youtube-ultimate - YouTube终极
+- short-video相关
+
+---
+
+## 🚀 推荐必装 (Top 10)
+
+| # | Skill | 用途 |
+|---|-------|------|
+| 1 | social-poster | 社媒一键发布 |
+| 2 | alphaear-news | 每日财经热点 |
+| 3 | github | GitHub自动化 |
+| 4 | docker-essentials | 容器管理 |
+| 5 | feishu-doc | 飞书文档 |
+| 6 | excel-mcp | Excel处理 |
+| 7 | crawl | 网页爬取 |
+| 8 | calendar | 日程管理 |
+| 9 | capability-evolver | 自我进化 |
+| 10 | coding-agent | 代码开发 |
+
+---
+
+## 📋 使用方式
+
+```bash
+# 搜索Skills
+clawhub search <关键词>
+
+# 安装Skills
+clawhub install <skill-name>
+
+# 查看详情
+clawhub inspect <skill-name>
+```
+
+---
+
+## 🔄 维护规则
+
+1. **每周轮值**：每人负责一周的Skills更新
+2. **新Skill记录**：安装后24小时内更新本索引
+3. **清理周期**：每月检查一次，移除过时Skills
+4. **标注规则**：
+   - ✅ 已验证：测试通过
+   - ⏳ 待验证：刚安装
+   - ⚠️ 有问题：存在bug
+
+---
+
+*持续更新中...*
